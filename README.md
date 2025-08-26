@@ -26,12 +26,6 @@ A simple, responsive web application for searching books using the Open Library 
    npm start
    ```
 
-## Deployment
-You can deploy this app for free on [CodeSandbox](https://codesandbox.io/) or [StackBlitz](https://stackblitz.com/).
-
 ## Notes
 - This project was built as part of a take-home challenge.
 - See the chatGPT link for the AI-assisted development process.
-
-## License
-MIT
